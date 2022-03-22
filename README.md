@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/wysrocket/wysrocket/blob/master/devcard.svg" width="400" alt="VK"/></a>
+ <a href="https://app.daily.dev/wysmyfree"><img align="right" src="https://api.daily.dev/devcards/9301db2d31c54c28afac07c956feef90.png?r=ibv" width="200" alt="Vlad K's Dev Card"/></a>
 
 ### Hi there 👋
 

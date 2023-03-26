@@ -8,11 +8,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactNative project                 
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on DevOps(Docker)
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about Vue/Angular
+- 🔭 I’m currently working on Lit.dev Bing Plugins                 
+
 - 📫 How to reach me: catch me if You can..
 - 😄 Pronouns: refregerator , once more - refregerator 
 - ⚡ Fun fact: life is a rollercoaster 
